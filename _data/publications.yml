@@ -1,0 +1,43 @@
+main:
+  - title: "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"
+    authors: <strong>Rifki Afina Putri</strong>, Faiz Ghifari Haznitrama, Dea Adhista, Alice Oh
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2402.17302
+    code: https://github.com/rifkiaputri/id-csqa
+    dataset: https://huggingface.co/collections/rifkiaputri/indonesian-and-sundanese-commonsenseqa-666abfe6e9fa3d54052c99b8
+    image: ./assets/img/id_csqa.jpg
+
+  - title: "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages"
+    authors: Junho Myung*, Nayeon Lee*, Yi Zhou*, Jiho Jin, <strong>Rifki Afina Putri</strong>, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh, and others
+    conference_short: NeurIPS D&B
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Datasets and Benchmarks Track, 2024
+    pdf: https://arxiv.org/abs/2406.09948
+    code: https://github.com/nlee0212/blend
+    dataset: https://huggingface.co/datasets/nayeon212/BLEnD
+    image: ./assets/img/blend.png
+    notes: Best Paper @ C3NLP Workshop 2024
+
+  - title: "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"
+    authors: Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, <strong>Rifki Afina Putri*</strong>, Emmanuel Dave, Jhonson Lee, Nuur Shadieq, Wawan Cenggoro, Salsabil Maulana Akbar, and others
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.acl-long.796/
+    code: https://github.com/IndoNLP/cendol
+    image: ./assets/img/cendol.png
+
+  - title: "Rethinking Annotation: Can Language Learners Contribute?"
+    authors: Haneul Yoo, <strong>Rifki Afina Putri</strong>, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2023.
+    pdf: https://aclanthology.org/2023.acl-long.822/
+    image: ./assets/img/lang_learner.png
+
+  - title: "IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"
+    authors: <strong>Rifki Afina Putri</strong>, Alice Oh
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.emnlp-main.465/
+    code: https://github.com/rifkiaputri/IDK-MRC
+    dataset: https://huggingface.co/datasets/rifkiaputri/idk-mrc
+    image: ./assets/img/idk_mrc.png
