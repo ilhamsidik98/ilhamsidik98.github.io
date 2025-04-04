@@ -9,10 +9,10 @@ Hi! I am a master student in the [Department of Computer Science and Electronics
 My research for my thesis focuses on Machine Learning and Data Imbalance based on Geophysics data, mainly handling imbalance dataset to solve high-cost data acquisition. I am passionate about developing AI in Geoscience to develop more adavanced technology in data processing and data acquisition.
 
 ## News
-- **[Jan. 2024]** I am starting my master's program on Artificial Intelligence in the [Department of Computer Science and Electronics (DCSE)](https://dcse.fmipa.ugm.ac.id/).
+- **[Jan. 2024]** I am starting my master's program on Artificial Intelligence (M.Cs.AI) in the [Department of Computer Science and Electronics (DCSE)](https://dcse.fmipa.ugm.ac.id/).
 - **[Sep. 2023]** Our paper on [Applied Gephysics](https://link.springer.com/article/10.1007/s11600-023-01154-w) was accepted to Acta Geophysica 2023!.
 - **[Jun. 2022]** I join **Geoseismal Research Center** as Software Developer. Find out more about the org [here](https://www.linkedin.com/company/geoseismal/posts/?feedView=all)!.
-- **[Feb. 2022]** I graduated B.Cs. from Geophysics, UGM.
+- **[Feb. 2022]** I graduated B.Sc. from Geophysics, UGM.
 - **[Mar. 2019]** Attended HISAS 2019 in Hokkaido to present one Findings paper on renewable energy.
 
 {% include_relative _includes/publications.md %}

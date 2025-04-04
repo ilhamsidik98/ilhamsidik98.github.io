@@ -2,18 +2,20 @@
 title: Ilham Sidik
 position: Asisten Peneliti
 affiliation: Universitas Gadjah Mada
-email: ilhamsidik98 (at) mail (dot) ugm.ac.id
+email: ilhamsidik98@mail.ugm.ac.id
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=lT8tgboAAAAJ
 github_link: https://github.com/ilhamsidik98
 linkedin: https://www.linkedin.com/in/hamdik/
+facebook: https://www.facebook.com/sagoham
+instagram: https://www.instagram.com/ilham.sidik98/
 # twitter: https://twitter.com/rifkiaputri
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profpic.jpg
+avatar: ./assets/img/profpic2.jpg
 favicon: ./assets/img/favicon.ico
 favicon_dark: ./assets/img/favicon.ico
 
