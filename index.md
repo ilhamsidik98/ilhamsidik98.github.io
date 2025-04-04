@@ -15,7 +15,7 @@ My research for my thesis focuses on Machine Learning and Data Imbalance based o
 - **[Feb. 2022]** I graduated B.Cs. from Geophysics, UGM.
 - **[Mar. 2019]** Attended HISAS 2019 in Hokkaido to present one Findings paper on renewable energy.
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
 ## Education
 
