@@ -4,7 +4,7 @@ main:
     conference_short: Web App
     conference: Web Application, Published on 16 April 2025.
     page: https://www.linkedin.com/posts/wiwit-suryanto-10567711_innovation-seismology-disastermitigation-activity-7320348172495593472-iJE6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGmRt0BFwKkurHzKr-MzTGfkyYNjVI6Zg0
-    image: ./assets/img/tarsius.jpg
+    image: ./assets/img/tarsius.png
 
   - title: "SPARC"
     authors: SPARC is a web application for Self Potential Analysis and Real-time Correlation. It is designed to help researchers and engineers analyze self-potential data and correlate it with other geophysical data in real-time. The application is built using Python and Django, making it easy to use and maintain.
@@ -32,7 +32,7 @@ main:
     conference_short: Web App
     conference: Web Application, Published on 25 2022.
     pdf: https://drive.google.com/file/d/1TvIIm58lAnnOwes5qj1vOUgULJV0Fomk/view?usp=sharing
-    image: ./assets/img/spectra.jpg
+    image: ./assets/img/spectra.png
 
   - title: "FiQCi"
     authors: FiQCi is a desktop application for passive seismic data acquisition and quality control. It is designed to be user-friendly and efficient, allowing users to easily manage their data and perform quality control checks. The application is built using Python and PyQt5, making it compatible with a wide range of operating systems.
