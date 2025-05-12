@@ -50,16 +50,19 @@ main:
     authors: <strong>Ilham Sidik</strong>, Sudarmaji Saroji, Sulistyani Sulistyani
     conference_short: Paper
     conference: Indonesian Journal of Science & Technology - <strong>IJoST</strong>, Submitted on September 2022.
+    pdf: https://drive.google.com/file/d/11ulxaA_ipoc4RKpWSPIlGUZTT5tp2eWt/view?usp=sharing
     image: ./assets/img/svm_merapi.png
 
   - title: "Optimization of Injection Well Location in Waterflood Scheme Using Bayesian Optimizer"
     authors: Muhammad Atho'illah, <strong>Ilham Sidik</strong>
     conference_short: IPFEST
     conference: Integrated Petroleum Festival ITB - <strong>IPFEST</strong>, 2021.
+    pdf: https://drive.google.com/file/d/1cdlKF5cII5TwTxw4bS7Gkhzl-fkFfYcw/view?usp=sharing
     image: ./assets/img/well_injection.png
 
   - title: "Optimalisasi Laju Aliran pada Sumur Produksi dan Sumur Injeksi pada Lapangan Geothermal Stillwater Menggunakan Bidirectional-LSTM"
     authors: Muhammad Atho'illah, <strong>Ilham Sidik</strong>
     conference_short: GWES
     conference: Geophysics Whiz Event and Seminar Unila - <strong>GWES</strong>, 2020.
+    pdf: https://drive.google.com/file/d/1g7w_BdgHeKXxkoy-2kd5MxmKnO9Wvgcn/view?usp=sharing
     image: ./assets/img/well_injection_lstm.png
